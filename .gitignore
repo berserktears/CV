@@ -3,3 +3,6 @@
 /resume.fls
 /resume.log
 /resume.syntax.gz
+resume.fdb_latexmk
+resume.out
+resume.synctex.gz
